@@ -1,0 +1,12 @@
+this is a sample file with some sample data
+
+just to try out ResourceLoader
+
+how it works
+
+the end!
+
+
+
+
+Thank you!
