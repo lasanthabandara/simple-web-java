@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-//@ComponentScan("resourceLoaderService")
 public class ResourceLoaderService implements ResourceLoaderAware {
 
     private ResourceLoader resourceLoader;
